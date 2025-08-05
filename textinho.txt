@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Olá Leitores!
+=======
+Olá Leitores!
+>>>>>>> d6cbc19e817919756f5335cd9c90ffc6cd60aca2
 O Principe Cruel O Rei peverso A Rainha do nada
