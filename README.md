@@ -1,0 +1,1 @@
+Oi gente apenas para explicar aqui vou postar tudo qe eu aprender,testar e errar durante me curso tecnico, como o curso eu faço na escola qeu eue estudo eu melhoro ou pioro por bimestre, então vai ter cosia do 2 bimestre do 3 e do 4
