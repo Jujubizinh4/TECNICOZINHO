@@ -1,0 +1,1 @@
+print("bora estudar")
